@@ -16,9 +16,10 @@
 - 💞️ I’m looking to collaborate on:
       - Any projects that involve creating blockchain based financial solutions whether they be apps or small tools
 - 📫 How to reach me:
-      - Email:  Mulatiwa.mwa@gmail.com
-      - Contact no: +264813056002/+264813056003
-      - Facebook: facebook.com/dmwambwa
+            - LinkedIn:		linkedin.com/in/mulatiwa-mwambwa-179010138
+            - Facebook:		https://www.facebook.com/mulatiwaYaka
+            - Twitter: 		@mulatiwa
+            - Instagram:	https://www.instagram.com/mulatiwayaka
 
 <!---
 AAA-pixel/AAA-pixel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
