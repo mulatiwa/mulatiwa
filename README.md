@@ -1,6 +1,6 @@
 #Mulatiwa Mwambwa (AAA-pixel)
 
-- 👋 Hi, I’m Mulatiwa Mwambwa(@AAA-pixel)
+- 👋 Hi, I’m Mulatiwa Mwambwa(@mulatiwa)
 
 - 👀 I’m interested in:
       - Finance
