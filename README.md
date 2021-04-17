@@ -18,7 +18,7 @@
 - 📫 How to reach me:
             - LinkedIn:		https://www.linkedin.com/in/mulatiwa-mwambwa-179010138
             - Facebook:		https://www.facebook.com/mulatiwaYaka
-            - Twitter: 		@mulatiwa
+            - Twitter: 		https://twitter.com/mulatiwa
             - Instagram:	https://www.instagram.com/mulatiwayaka
 
 <!---
