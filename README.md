@@ -1,4 +1,4 @@
-#Mulatiwa Mwambwa (AAA-pixel)
+#Mulatiwa Mwambwa (mulatiwa)
 
 - 👋 Hi, I’m Mulatiwa Mwambwa(@mulatiwa)
 
