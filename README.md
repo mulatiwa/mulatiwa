@@ -1,4 +1,4 @@
-#blackpill_mulatiwa
+#mulatiwa
 
 - 👋 Hi, There, I’m Mulatiwa
 
