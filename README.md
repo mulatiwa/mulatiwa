@@ -38,7 +38,7 @@
 
 [twitter]: https://twitter.com/mulatiwa
 [instagram]: https://www.instagram.com/_mulatiwa_
-[facebook]: https://www.facebook.com/mulatiwapolymath
+[facebook]: https://www.facebook.com/mulatiwapolymath?mibextid=ZbWKwL
 [linkedin]: https://www.linkedin.com/in/mulatiwa-mwambwa-179010138/
 
 
