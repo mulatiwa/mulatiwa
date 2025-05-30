@@ -16,7 +16,7 @@ Connect with me @
 - UI Library: React
 - API  Paradigms: REST | GraphQL
 - Programming Paradigms: Functional Programming | Object -Orientated Programming
-- Industry Knowledge: Blockchain | Smart Contracts
+- Industry Knowledge: Networking | Blockchain | Smart Contracts
 
 [linkedin]: https://www.linkedin.com/in/mulatiwa
 [upwork]: https://www.upwork.com/freelancers/~01220f017c87f7996f
